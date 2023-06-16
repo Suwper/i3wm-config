@@ -21,7 +21,8 @@ JetBrains fonts:
 Other dependencies:
 ```
   pacman -S picom dunst xfce-polkit nitrogen rofi lxappearance playerctl pulsemixer pipewire pipewire-pulse xdotool neofetch 
-```### Screenshots
+```
+### Screenshots
 ![Picture](https://raw.githubusercontent.com/Suwper/i3wm-config/main/Screenshots/yellowrice.png)
 
 ![desktop](https://raw.githubusercontent.com/Suwper/i3wm-config/main/Screenshots/yellowrice2.png) 
