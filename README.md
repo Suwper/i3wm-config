@@ -33,3 +33,6 @@ Other dependencies:
 
  - [archcraft i3wm config](https://github.com/archcraft-os/archcraft-i3wm)
 
+## Notes
+### This is a configured ArchCraft i3-wm config, a lot of dependecies are missing, this will probably only work on ArchCraft
+
